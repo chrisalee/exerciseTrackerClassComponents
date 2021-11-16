@@ -1,3 +1,14 @@
 MERN Stack - MongoDB, Express, React, Node.js
 
 Class components - 
+
+Exercise Tracker Application
+- MongoDB Atlas database - mongodb+srv://chrislee:<password>@cluster0.796pg.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+    -exercises
+    -users
+    (every exercise will have one user)
+
+
+
+
+
